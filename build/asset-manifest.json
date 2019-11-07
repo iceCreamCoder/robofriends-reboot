@@ -1,47 +1,24 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/my-app/static/css/main.ba337483.chunk.css",
-    "main.js": "/my-app/static/js/main.da2fb519.chunk.js",
-    "main.js.map": "/my-app/static/js/main.da2fb519.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.1673d8e3.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.1673d8e3.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/my-app/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.e3c41800.chunk.js": "/my-app/static/js/2.e3c41800.chunk.js",
-    "static/js/2.e3c41800.chunk.js.map": "/my-app/static/js/2.e3c41800.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.f60bd5068c8b70e051fa40f3d449a594.js": "/my-app/precache-manifest.f60bd5068c8b70e051fa40f3d449a594.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/my-app/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.ba337483.chunk.css.map": "/my-app/static/css/main.ba337483.chunk.css.map"
+    "main.css": "/robofriends-reboot/static/css/main.ba337483.chunk.css",
+    "main.js": "/robofriends-reboot/static/js/main.b54fe692.chunk.js",
+    "main.js.map": "/robofriends-reboot/static/js/main.b54fe692.chunk.js.map",
+    "runtime-main.js": "/robofriends-reboot/static/js/runtime-main.2e92f313.js",
+    "runtime-main.js.map": "/robofriends-reboot/static/js/runtime-main.2e92f313.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriends-reboot/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.e3c41800.chunk.js": "/robofriends-reboot/static/js/2.e3c41800.chunk.js",
+    "static/js/2.e3c41800.chunk.js.map": "/robofriends-reboot/static/js/2.e3c41800.chunk.js.map",
+    "index.html": "/robofriends-reboot/index.html",
+    "precache-manifest.9ff40d92163b63ff4523751c68be7958.js": "/robofriends-reboot/precache-manifest.9ff40d92163b63ff4523751c68be7958.js",
+    "service-worker.js": "/robofriends-reboot/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriends-reboot/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ba337483.chunk.css.map": "/robofriends-reboot/static/css/main.ba337483.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1673d8e3.js",
+    "static/js/runtime-main.2e92f313.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.e3c41800.chunk.js",
     "static/css/main.ba337483.chunk.css",
-    "static/js/main.da2fb519.chunk.js"
-=======
-    "main.css": "/robofriend-reboot.github.io/my-app/static/css/main.ba337483.chunk.css",
-    "main.js": "/robofriend-reboot.github.io/my-app/static/js/main.747ee9f7.chunk.js",
-    "main.js.map": "/robofriend-reboot.github.io/my-app/static/js/main.747ee9f7.chunk.js.map",
-    "runtime-main.js": "/robofriend-reboot.github.io/my-app/static/js/runtime-main.45690e24.js",
-    "runtime-main.js.map": "/robofriend-reboot.github.io/my-app/static/js/runtime-main.45690e24.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/robofriend-reboot.github.io/my-app/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.e3c41800.chunk.js": "/robofriend-reboot.github.io/my-app/static/js/2.e3c41800.chunk.js",
-    "static/js/2.e3c41800.chunk.js.map": "/robofriend-reboot.github.io/my-app/static/js/2.e3c41800.chunk.js.map",
-    "index.html": "/robofriend-reboot.github.io/my-app/index.html",
-    "precache-manifest.76e3eb8b43436bdce1e116566e66bf7f.js": "/robofriend-reboot.github.io/my-app/precache-manifest.76e3eb8b43436bdce1e116566e66bf7f.js",
-    "service-worker.js": "/robofriend-reboot.github.io/my-app/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/robofriend-reboot.github.io/my-app/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.ba337483.chunk.css.map": "/robofriend-reboot.github.io/my-app/static/css/main.ba337483.chunk.css.map"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.45690e24.js",
-    "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.e3c41800.chunk.js",
-    "static/css/main.ba337483.chunk.css",
-    "static/js/main.747ee9f7.chunk.js"
->>>>>>> 185ea56154bba8c720e9d3a167d97cd1a9c044c1
+    "static/js/main.b54fe692.chunk.js"
   ]
 }

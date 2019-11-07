@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/my-app/precache-manifest.f60bd5068c8b70e051fa40f3d449a594.js"
-=======
-  "/robofriend-reboot.github.io/my-app/precache-manifest.76e3eb8b43436bdce1e116566e66bf7f.js"
->>>>>>> 185ea56154bba8c720e9d3a167d97cd1a9c044c1
+  "/robofriends-reboot/precache-manifest.9ff40d92163b63ff4523751c68be7958.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -37,11 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-<<<<<<< HEAD
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/my-app/index.html"), {
-=======
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/robofriend-reboot.github.io/my-app/index.html"), {
->>>>>>> 185ea56154bba8c720e9d3a167d97cd1a9c044c1
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/robofriends-reboot/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });

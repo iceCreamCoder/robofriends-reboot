@@ -40,6 +40,7 @@ class App extends Component {
       return (
         <div className="tc">
           <h1>RoboFriends</h1>
+          <p>Coming soon - a feature to add and favorite robots!</p>
           <SeachBox searchChange={this.onSearchChange} />
           <Scroll>
             <CardList robots={filteredRobots}/>
